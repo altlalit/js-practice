@@ -12,7 +12,7 @@ function distanceConverter(kilometers) {
         centimeter : centimeter,
         feet : feet,
         inches : inches
-    }
+    };
 }
 
 let inputKilometers = prompt("Enter the distance in Kilometers : ");
